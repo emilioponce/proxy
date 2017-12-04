@@ -1,0 +1,13 @@
+{
+  "name": "proxy",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "emilioponce",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
